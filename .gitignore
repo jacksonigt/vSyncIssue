@@ -2,6 +2,17 @@
 #
 # Get latest from https://github.com/github/gitignore/blob/master/Unity.gitignore
 #
+# Temp files
+*/Library/
+*/Temp/
+*/Logs/
+*/UserSettings/
+*/Obj/
+*/Build/
+*/Builds/
+*.vsconfig
+
+
 /[Ll]ibrary/
 /[Tt]emp/
 /[Oo]bj/
